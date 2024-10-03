@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "esling src",
     "preview": "vite preview",
-    "prepare": "hustky install"
+    "prepare": "husky install"
   },
   "dependencies": {
     "lint-staged": "^15.1.0",
