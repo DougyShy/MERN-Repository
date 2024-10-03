@@ -2,8 +2,3 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 npx lint-staged
-npx lint-staged
-
-#!/bin/sh
-# exit 1 will prevent commit to happen, so you can more easily debug things
-echo "it's working" && exit 1 

@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint src",
     "preview": "vite preview",
-    "prepare": "husky install"
+    "prepare": "husky commit"
   },
   "dependencies": {
     "react": "^18.2.0",
